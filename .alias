@@ -1,0 +1,14 @@
+#Artisan alias
+alias pa='php artisan'
+alias pas='pa serve'
+alias paauth='pa make:auth'
+alias pamodel='pa make:model'
+alias pacontroller='pa make:controller'
+alias pamiddleware='pa make:middleware'
+alias pamigration='pa make:migration'
+alias pamigrate='pa migrate'
+alias pajob='pa make:job'
+alias pamail='pa make:mail'
+
+#system
+alias cl='clear'
